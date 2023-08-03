@@ -1,0 +1,24 @@
+/* fuentes para sitio web */
+
+@font-face
+{
+	font-family: A;
+	src: url(../fonts/fuente1.ttf);
+}
+
+@font-face
+{
+	font-family: B;
+	src: url(../fonts/fuente2.ttf);
+}
+
+@font-face
+{
+	font-family: C;
+	src: url(../fonts/fuente3.ttf);
+}
+@font-face
+{
+	font-family: D;
+	src: url(../fonts/fuente4.ttf);
+}
